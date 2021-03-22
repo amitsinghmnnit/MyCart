@@ -1,7 +1,7 @@
-->MyCart is an E-commerce site.
+MyCart is an E-commerce site.
 
-->It is made using django framework.
+It is made using django framework.
 
-->it has cart for both as a registered user or a guest User.
+It has cart for both as a registered user or a guest User.
 
-->It's payment integration is done using Paypal.
+It's payment integration is done using Paypal.
